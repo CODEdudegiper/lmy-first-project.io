@@ -1,2 +1,2 @@
-# lmy-first-project.io
+# lmy-first-project.github.io
 my first project
